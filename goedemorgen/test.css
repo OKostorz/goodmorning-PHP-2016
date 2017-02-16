@@ -1,0 +1,36 @@
+.Goedemorgen {
+	background: url('/school/goedemorgen/png/morning.png');
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+
+}
+
+.Goedemiddag {
+	background: url('/school/goedemorgen/png/afternoon.png');
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+
+}
+
+.Goedenavond {
+	background: url('/school/goedemorgen/png/evening.png');
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+
+}
+
+.Goedenacht {
+	background: url('/school/goedemorgen/png/night.png');
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+
+}
+
+h3 {
+	font-family: 'Grand Hotel', cursive;
+	font-size: 60px;
+	color: #fff;
+	text-align: center;
+	margin-top: 100px;
+
+}
